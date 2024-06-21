@@ -4,10 +4,10 @@
 This project focuses on cleaning a messy dataset to ensure it is ready for analysis. The cleaning process involves identifying and correcting errors, handling missing values, removing duplicates, and standardizing data formats. The final goal is to transform the dataset into a clean, reliable, and structured format suitable for subsequent analytical processes.
 
 ## Tools Used:
-###Python:
+### Python:
 
 The programming language used for data manipulation and cleaning.
-###Jupyter Notebook:
+### Jupyter Notebook:
 
 The interactive environment used for writing and running the code.
 
@@ -29,3 +29,8 @@ Column names are:
 ### Join Date:Joining Date
 ### Salary:Salary of the Employee
 ### Department:Department of the Employee
+
+### How to Run the code:
+  Copy the code from jupyter notebook.
+  save the notebook as cleaned.py
+  open the terminal and type python cleaned.py
