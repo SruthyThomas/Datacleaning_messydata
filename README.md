@@ -21,13 +21,21 @@ The interactive environment used for writing and running the code.
 
 # Description:
 Thia is an employee dataset that contains 11000rows and 8 columns.
+
 Column names are:
+
  Unnamed
+ 
  ID-Id of each employee
+ 
  Name:Name of the Employee
+ 
  Email:email of the Employee
+ 
  Join Date:Joining Date
+ 
  Salary:Salary of the Employee
+ 
  Department:Department of the Employee
 
 ### How to Run the code:
