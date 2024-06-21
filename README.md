@@ -39,6 +39,9 @@ Column names are:
  Department:Department of the Employee
 
 ### How to Run the code:
+
   Copy the code from jupyter notebook.
+  
   Save the notebook as cleaned.py
+  
   Open the terminal and type python cleaned.py
